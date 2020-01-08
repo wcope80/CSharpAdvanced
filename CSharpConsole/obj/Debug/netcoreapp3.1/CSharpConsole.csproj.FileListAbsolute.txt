@@ -1,0 +1,14 @@
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.exe
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.deps.json
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.runtimeconfig.json
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.runtimeconfig.dev.json
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.dll
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\bin\Debug\netcoreapp3.1\CSharpConsole.pdb
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.csprojAssemblyReference.cache
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.AssemblyInfoInputs.cache
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.AssemblyInfo.cs
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.csproj.CopyComplete
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.dll
+C:\Users\wcope\source\repos\CSharpAdvanced\CSharpConsole\obj\Debug\netcoreapp3.1\CSharpConsole.pdb
